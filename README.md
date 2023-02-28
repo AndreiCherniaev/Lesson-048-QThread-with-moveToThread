@@ -10,3 +10,6 @@ exceptions from an event handler is not supported in Qt.
 You must not let any exception whatsoever propagate through Qt code.
 
 Детали тут https://evileg.com/ru/post/152/#comment-2663
+
+3) Также материал на тему нитей Qt https://habr.com/ru/post/485324/
+4) see another project https://github.com/hunghtbk/Watcher_Application
