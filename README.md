@@ -12,5 +12,6 @@ You must not let any exception whatsoever propagate through Qt code.
 
 Детали тут https://evileg.com/ru/post/152/#comment-2663
 
+3) Аналогичный консольный проект https://github.com/AndreiCherniaev/QThread-with-moveToThread_console
 3) Также материал на тему нитей Qt https://habr.com/ru/post/485324/
 4) see another project https://github.com/hunghtbk/Watcher_Application
